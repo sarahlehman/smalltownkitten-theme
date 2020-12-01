@@ -268,12 +268,14 @@ a:active {
 
 .sidebar .logo-title {
     text-align: center;
-    padding-top: 240px;
+    padding-top: 2rem;
     flex: 1;
 }
 
 .sidebar .logo-title .description {
     font-size: 14px;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .sidebar .logo-title .logo {
@@ -830,7 +832,7 @@ print {
     }
 
     .sidebar .logo-title {
-        padding-top: 120px;
+        padding-top: 80px;
     }
 
     .sidebar .logo-title .title img {
@@ -850,7 +852,7 @@ print {
     }
 
     .content {
-        margin-top: 420px;
+        margin-top: 530px;
         width: 100%;
         z-index: 2;
         position: absolute;
